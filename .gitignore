@@ -1,4 +1,6 @@
-Debug\*
-Release\*
+Debug/*
+Release/*
+LibmodbusVs2008Template/Debug/
+LibmodbusVs2008Template/Release/
 *.ncb
 *.suo
